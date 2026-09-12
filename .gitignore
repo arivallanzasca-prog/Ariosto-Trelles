@@ -1,0 +1,12 @@
+.Renviron
+.httr-oauth
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+renv/staging/
+*.html
+~$*
+.DS_Store
+*.Rproj

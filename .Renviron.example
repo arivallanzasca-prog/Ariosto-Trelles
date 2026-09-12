@@ -1,0 +1,4 @@
+# Copia este archivo como .Renviron y rellena tus credenciales
+# NUNCA subas .Renviron a GitHub
+YOUTUBE_CLIENT_ID=your_client_id_here
+YOUTUBE_CLIENT_SECRET=your_client_secret_here
