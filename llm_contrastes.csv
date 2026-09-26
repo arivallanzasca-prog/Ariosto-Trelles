@@ -1,0 +1,6 @@
+"contraste","dAUC_ROC","IC_ROC","dAUC_PR","IC_PR"
+"LLM metadata + transcript - TF-IDF metadata + transcript",0.00132922996333156,"[-0.068, 0.071]",-0.0644881778786068,"[-0.167, 0.035]"
+"LLM metadata - TF-IDF metadata",-0.0628186659682207,"[-0.138, 0.012]",-0.0749935103551597,"[-0.182, 0.023]"
+"LLM transcript - TF-IDF transcript",0.00101274663872881,"[-0.069, 0.070]",-0.0463837898270518,"[-0.150, 0.051]"
+"LLM metadata + transcript - Proxies metadata + transcript",0.144937358128165,"[0.065, 0.226]",0.159933918756541,"[0.060, 0.254]"
+"LLM metadata + transcript - LLM metadata",0.10489785227868,"[0.049, 0.160]",0.103770417507423,"[0.022, 0.181]"

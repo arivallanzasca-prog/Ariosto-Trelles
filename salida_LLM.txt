@@ -1,0 +1,239 @@
+YouTube: 635 videos (83 desinformación) | BitChute: 100 (36)
+Modelo: llama3.1:8b | 8.0B parámetros | cuantización Q4_K_M | digest 46e0c10c039e
+
+Ejecutando YouTube | Metadata+Transcript 
+  Youtube | Metadata+Transcript: 35/635 | 41.4 s por video | faltan ~414 min
+  Youtube | Metadata+Transcript: 45/635 | 36.2 s por video | faltan ~356 min
+  Youtube | Metadata+Transcript: 55/635 | 33.7 s por video | faltan ~326 min
+  Youtube | Metadata+Transcript: 65/635 | 32.1 s por video | faltan ~305 min
+  Youtube | Metadata+Transcript: 75/635 | 31.6 s por video | faltan ~295 min
+  Youtube | Metadata+Transcript: 85/635 | 32.5 s por video | faltan ~297 min
+  Youtube | Metadata+Transcript: 95/635 | 33.1 s por video | faltan ~298 min
+  Youtube | Metadata+Transcript: 105/635 | 34.1 s por video | faltan ~302 min
+  Youtube | Metadata+Transcript: 115/635 | 34.7 s por video | faltan ~300 min
+  Youtube | Metadata+Transcript: 125/635 | 34.4 s por video | faltan ~293 min
+  Youtube | Metadata+Transcript: 135/635 | 35.3 s por video | faltan ~294 min
+  Youtube | Metadata+Transcript: 145/635 | 34.3 s por video | faltan ~280 min
+  Youtube | Metadata+Transcript: 155/635 | 34.0 s por video | faltan ~272 min
+  Youtube | Metadata+Transcript: 165/635 | 34.1 s por video | faltan ~267 min
+  Youtube | Metadata+Transcript: 175/635 | 33.6 s por video | faltan ~258 min
+  Youtube | Metadata+Transcript: 185/635 | 80.6 s por video | faltan ~605 min
+  Youtube | Metadata+Transcript: 195/635 | 77.1 s por video | faltan ~565 min
+  Youtube | Metadata+Transcript: 205/635 | 74.3 s por video | faltan ~533 min
+  Youtube | Metadata+Transcript: 215/635 | 73.0 s por video | faltan ~511 min
+  Youtube | Metadata+Transcript: 225/635 | 71.6 s por video | faltan ~489 min
+  Youtube | Metadata+Transcript: 235/635 | 70.6 s por video | faltan ~471 min
+  Youtube | Metadata+Transcript: 245/635 | 68.6 s por video | faltan ~446 min
+  Youtube | Metadata+Transcript: 255/635 | 66.9 s por video | faltan ~424 min
+  Youtube | Metadata+Transcript: 265/635 | 65.7 s por video | faltan ~405 min
+  Youtube | Metadata+Transcript: 275/635 | 63.9 s por video | faltan ~383 min
+  Youtube | Metadata+Transcript: 285/635 | 62.7 s por video | faltan ~366 min
+  Youtube | Metadata+Transcript: 295/635 | 61.5 s por video | faltan ~349 min
+  Youtube | Metadata+Transcript: 305/635 | 60.1 s por video | faltan ~330 min
+  Youtube | Metadata+Transcript: 315/635 | 58.9 s por video | faltan ~314 min
+  Youtube | Metadata+Transcript: 325/635 | 57.8 s por video | faltan ~299 min
+  Youtube | Metadata+Transcript: 335/635 | 56.8 s por video | faltan ~284 min
+  Youtube | Metadata+Transcript: 345/635 | 55.8 s por video | faltan ~270 min
+  Youtube | Metadata+Transcript: 355/635 | 55.0 s por video | faltan ~257 min
+  Youtube | Metadata+Transcript: 365/635 | 54.1 s por video | faltan ~244 min
+  Youtube | Metadata+Transcript: 375/635 | 53.3 s por video | faltan ~231 min
+  Youtube | Metadata+Transcript: 385/635 | 52.7 s por video | faltan ~220 min
+  Youtube | Metadata+Transcript: 395/635 | 52.0 s por video | faltan ~208 min
+  Youtube | Metadata+Transcript: 405/635 | 51.2 s por video | faltan ~196 min
+  Youtube | Metadata+Transcript: 415/635 | 50.4 s por video | faltan ~185 min
+  Youtube | Metadata+Transcript: 425/635 | 50.0 s por video | faltan ~175 min
+  Youtube | Metadata+Transcript: 435/635 | 54.4 s por video | faltan ~181 min
+  Youtube | Metadata+Transcript: 445/635 | 53.8 s por video | faltan ~170 min
+  Youtube | Metadata+Transcript: 455/635 | 53.2 s por video | faltan ~160 min
+  Youtube | Metadata+Transcript: 465/635 | 52.9 s por video | faltan ~150 min
+  Youtube | Metadata+Transcript: 475/635 | 61.5 s por video | faltan ~164 min
+  Youtube | Metadata+Transcript: 485/635 | 60.8 s por video | faltan ~152 min
+  Youtube | Metadata+Transcript: 495/635 | 60.0 s por video | faltan ~140 min
+  Youtube | Metadata+Transcript: 505/635 | 59.3 s por video | faltan ~128 min
+  Youtube | Metadata+Transcript: 515/635 | 59.8 s por video | faltan ~120 min
+  Youtube | Metadata+Transcript: 525/635 | 67.9 s por video | faltan ~124 min
+  Youtube | Metadata+Transcript: 535/635 | 67.2 s por video | faltan ~112 min
+  Youtube | Metadata+Transcript: 545/635 | 66.8 s por video | faltan ~100 min
+  Youtube | Metadata+Transcript: 555/635 | 66.2 s por video | faltan ~88 min
+  Youtube | Metadata+Transcript: 565/635 | 65.5 s por video | faltan ~76 min
+  Youtube | Metadata+Transcript: 575/635 | 65.0 s por video | faltan ~65 min
+  Youtube | Metadata+Transcript: 585/635 | 64.4 s por video | faltan ~54 min
+  Youtube | Metadata+Transcript: 595/635 | 63.8 s por video | faltan ~43 min
+  Youtube | Metadata+Transcript: 605/635 | 63.2 s por video | faltan ~32 min
+  Youtube | Metadata+Transcript: 615/635 | 62.8 s por video | faltan ~21 min
+  Youtube | Metadata+Transcript: 625/635 | 62.3 s por video | faltan ~10 min
+  Youtube | Metadata+Transcript: 635/635 | 62.0 s por video | faltan ~0 min
+
+Ejecutando BitChute | Metadata+Transcript
+  Bitchute | Metadata+Transcript: 10/100 | 61.5 s por video | faltan ~92 min
+  Bitchute | Metadata+Transcript: 20/100 | 61.2 s por video | faltan ~82 min
+  Bitchute | Metadata+Transcript: 30/100 | 54.3 s por video | faltan ~63 min
+  Bitchute | Metadata+Transcript: 40/100 | 54.9 s por video | faltan ~55 min
+  Bitchute | Metadata+Transcript: 50/100 | 53.5 s por video | faltan ~45 min
+  Bitchute | Metadata+Transcript: 60/100 | 52.8 s por video | faltan ~35 min
+  Bitchute | Metadata+Transcript: 70/100 | 52.5 s por video | faltan ~26 min
+  Bitchute | Metadata+Transcript: 80/100 | 52.7 s por video | faltan ~18 min
+  Bitchute | Metadata+Transcript: 90/100 | 51.5 s por video | faltan ~9 min
+  Bitchute | Metadata+Transcript: 100/100 | 51.6 s por video | faltan ~0 min
+
+Ejecutando YouTube | Metadata 
+  Youtube | Metadata: 10/635 | 27.4 s por video | faltan ~285 min
+  Youtube | Metadata: 20/635 | 27.6 s por video | faltan ~283 min
+  Youtube | Metadata: 30/635 | 23.8 s por video | faltan ~240 min
+  Youtube | Metadata: 40/635 | 22.9 s por video | faltan ~227 min
+  Youtube | Metadata: 50/635 | 22.1 s por video | faltan ~215 min
+  Youtube | Metadata: 60/635 | 21.0 s por video | faltan ~201 min
+  Youtube | Metadata: 70/635 | 20.4 s por video | faltan ~192 min
+  Youtube | Metadata: 80/635 | 20.3 s por video | faltan ~188 min
+  Youtube | Metadata: 90/635 | 20.1 s por video | faltan ~182 min
+  Youtube | Metadata: 100/635 | 20.5 s por video | faltan ~183 min
+  Youtube | Metadata: 110/635 | 20.2 s por video | faltan ~177 min
+  Youtube | Metadata: 120/635 | 20.7 s por video | faltan ~177 min
+  Youtube | Metadata: 130/635 | 20.4 s por video | faltan ~172 min
+  Youtube | Metadata: 140/635 | 20.5 s por video | faltan ~169 min
+  Youtube | Metadata: 150/635 | 20.2 s por video | faltan ~163 min
+  Youtube | Metadata: 160/635 | 20.2 s por video | faltan ~160 min
+  Youtube | Metadata: 170/635 | 20.1 s por video | faltan ~156 min
+  Youtube | Metadata: 180/635 | 20.2 s por video | faltan ~153 min
+  Youtube | Metadata: 190/635 | 20.3 s por video | faltan ~150 min
+  Youtube | Metadata: 200/635 | 20.2 s por video | faltan ~146 min
+  Youtube | Metadata: 210/635 | 19.9 s por video | faltan ~141 min
+  Youtube | Metadata: 220/635 | 19.9 s por video | faltan ~138 min
+  Youtube | Metadata: 230/635 | 22.2 s por video | faltan ~150 min
+  Youtube | Metadata: 240/635 | 22.0 s por video | faltan ~145 min
+  Youtube | Metadata: 250/635 | 21.9 s por video | faltan ~140 min
+  Youtube | Metadata: 260/635 | 22.0 s por video | faltan ~138 min
+  Youtube | Metadata: 270/635 | 21.9 s por video | faltan ~133 min
+  Youtube | Metadata: 280/635 | 21.9 s por video | faltan ~129 min
+  Youtube | Metadata: 290/635 | 22.0 s por video | faltan ~126 min
+  Youtube | Metadata: 300/635 | 21.9 s por video | faltan ~122 min
+  Youtube | Metadata: 310/635 | 22.2 s por video | faltan ~120 min
+  Youtube | Metadata: 320/635 | 22.3 s por video | faltan ~117 min
+  Youtube | Metadata: 330/635 | 22.3 s por video | faltan ~114 min
+  Youtube | Metadata: 340/635 | 22.5 s por video | faltan ~110 min
+  Youtube | Metadata: 350/635 | 22.5 s por video | faltan ~107 min
+  Youtube | Metadata: 360/635 | 22.6 s por video | faltan ~103 min
+  Youtube | Metadata: 370/635 | 22.6 s por video | faltan ~100 min
+  Youtube | Metadata: 380/635 | 22.7 s por video | faltan ~97 min
+  Youtube | Metadata: 390/635 | 22.8 s por video | faltan ~93 min
+  Youtube | Metadata: 400/635 | 22.8 s por video | faltan ~89 min
+  Youtube | Metadata: 410/635 | 22.8 s por video | faltan ~85 min
+  Youtube | Metadata: 420/635 | 22.9 s por video | faltan ~82 min
+  Youtube | Metadata: 430/635 | 23.0 s por video | faltan ~79 min
+  Youtube | Metadata: 440/635 | 23.1 s por video | faltan ~75 min
+  Youtube | Metadata: 450/635 | 23.2 s por video | faltan ~72 min
+  Youtube | Metadata: 460/635 | 23.3 s por video | faltan ~68 min
+  Youtube | Metadata: 470/635 | 23.5 s por video | faltan ~65 min
+  Youtube | Metadata: 480/635 | 23.6 s por video | faltan ~61 min
+  Youtube | Metadata: 490/635 | 23.6 s por video | faltan ~57 min
+  Youtube | Metadata: 500/635 | 23.6 s por video | faltan ~53 min
+  Youtube | Metadata: 510/635 | 23.7 s por video | faltan ~49 min
+  Youtube | Metadata: 520/635 | 23.8 s por video | faltan ~46 min
+  Youtube | Metadata: 530/635 | 24.0 s por video | faltan ~42 min
+  Youtube | Metadata: 540/635 | 84.3 s por video | faltan ~133 min
+  Youtube | Metadata: 550/635 | 83.2 s por video | faltan ~118 min
+  Youtube | Metadata: 560/635 | 82.4 s por video | faltan ~103 min
+  Youtube | Metadata: 570/635 | 81.4 s por video | faltan ~88 min
+  Youtube | Metadata: 580/635 | 80.3 s por video | faltan ~74 min
+  Youtube | Metadata: 590/635 | 79.3 s por video | faltan ~59 min
+  Youtube | Metadata: 600/635 | 78.4 s por video | faltan ~46 min
+  Youtube | Metadata: 610/635 | 77.5 s por video | faltan ~32 min
+  Youtube | Metadata: 620/635 | 76.6 s por video | faltan ~19 min
+  Youtube | Metadata: 630/635 | 75.8 s por video | faltan ~6 min
+
+Ejecutando YouTube | Transcript 
+  Youtube | Transcript: 10/635 | 26.4 s por video | faltan ~275 min
+  Youtube | Transcript: 20/635 | 25.3 s por video | faltan ~259 min
+  Youtube | Transcript: 30/635 | 24.1 s por video | faltan ~243 min
+  Youtube | Transcript: 40/635 | 23.5 s por video | faltan ~233 min
+  Youtube | Transcript: 50/635 | 21.8 s por video | faltan ~213 min
+  Youtube | Transcript: 60/635 | 22.1 s por video | faltan ~212 min
+  Youtube | Transcript: 70/635 | 22.1 s por video | faltan ~208 min
+  Youtube | Transcript: 80/635 | 22.3 s por video | faltan ~206 min
+  Youtube | Transcript: 90/635 | 22.0 s por video | faltan ~200 min
+  Youtube | Transcript: 100/635 | 21.4 s por video | faltan ~191 min
+  Youtube | Transcript: 110/635 | 21.3 s por video | faltan ~186 min
+  Youtube | Transcript: 120/635 | 21.1 s por video | faltan ~181 min
+  Youtube | Transcript: 130/635 | 21.0 s por video | faltan ~176 min
+  Youtube | Transcript: 140/635 | 20.6 s por video | faltan ~170 min
+  Youtube | Transcript: 150/635 | 20.3 s por video | faltan ~164 min
+  Youtube | Transcript: 160/635 | 20.1 s por video | faltan ~159 min
+  Youtube | Transcript: 170/635 | 19.8 s por video | faltan ~154 min
+  Youtube | Transcript: 180/635 | 19.6 s por video | faltan ~149 min
+  Youtube | Transcript: 190/635 | 19.5 s por video | faltan ~145 min
+  Youtube | Transcript: 200/635 | 19.8 s por video | faltan ~143 min
+  Youtube | Transcript: 210/635 | 19.6 s por video | faltan ~139 min
+  Youtube | Transcript: 220/635 | 19.6 s por video | faltan ~136 min
+  Youtube | Transcript: 230/635 | 19.6 s por video | faltan ~132 min
+  Youtube | Transcript: 240/635 | 19.6 s por video | faltan ~129 min
+  Youtube | Transcript: 250/635 | 19.5 s por video | faltan ~125 min
+  Youtube | Transcript: 260/635 | 19.6 s por video | faltan ~123 min
+  Youtube | Transcript: 270/635 | 19.6 s por video | faltan ~119 min
+  Youtube | Transcript: 280/635 | 19.6 s por video | faltan ~116 min
+  Youtube | Transcript: 290/635 | 19.6 s por video | faltan ~112 min
+  Youtube | Transcript: 300/635 | 19.5 s por video | faltan ~109 min
+  Youtube | Transcript: 310/635 | 19.6 s por video | faltan ~106 min
+  Youtube | Transcript: 320/635 | 19.6 s por video | faltan ~103 min
+  Youtube | Transcript: 330/635 | 19.5 s por video | faltan ~99 min
+  Youtube | Transcript: 340/635 | 19.6 s por video | faltan ~96 min
+  Youtube | Transcript: 350/635 | 19.4 s por video | faltan ~92 min
+  Youtube | Transcript: 360/635 | 19.4 s por video | faltan ~89 min
+  Youtube | Transcript: 370/635 | 19.5 s por video | faltan ~86 min
+  Youtube | Transcript: 380/635 | 19.5 s por video | faltan ~83 min
+  Youtube | Transcript: 390/635 | 19.5 s por video | faltan ~79 min
+  Youtube | Transcript: 400/635 | 19.4 s por video | faltan ~76 min
+  Youtube | Transcript: 410/635 | 19.3 s por video | faltan ~73 min
+  Youtube | Transcript: 420/635 | 19.4 s por video | faltan ~69 min
+  Youtube | Transcript: 430/635 | 19.4 s por video | faltan ~66 min
+  Youtube | Transcript: 440/635 | 19.4 s por video | faltan ~63 min
+  Youtube | Transcript: 450/635 | 19.4 s por video | faltan ~60 min
+  Youtube | Transcript: 460/635 | 19.4 s por video | faltan ~57 min
+  Youtube | Transcript: 470/635 | 19.4 s por video | faltan ~53 min
+  Youtube | Transcript: 480/635 | 19.6 s por video | faltan ~51 min
+  Youtube | Transcript: 490/635 | 19.5 s por video | faltan ~47 min
+  Youtube | Transcript: 500/635 | 19.4 s por video | faltan ~44 min
+  Youtube | Transcript: 510/635 | 19.4 s por video | faltan ~41 min
+  Youtube | Transcript: 520/635 | 19.4 s por video | faltan ~37 min
+  Youtube | Transcript: 530/635 | 19.4 s por video | faltan ~34 min
+  Youtube | Transcript: 540/635 | 19.5 s por video | faltan ~31 min
+  Youtube | Transcript: 550/635 | 19.4 s por video | faltan ~28 min
+  Youtube | Transcript: 560/635 | 19.6 s por video | faltan ~24 min
+  Youtube | Transcript: 570/635 | 19.7 s por video | faltan ~21 min
+  Youtube | Transcript: 580/635 | 19.8 s por video | faltan ~18 min
+  Youtube | Transcript: 590/635 | 19.8 s por video | faltan ~15 min
+  Youtube | Transcript: 600/635 | 19.8 s por video | faltan ~12 min
+  Youtube | Transcript: 610/635 | 19.9 s por video | faltan ~8 min
+  Youtube | Transcript: 620/635 | 20.0 s por video | faltan ~5 min
+  Youtube | Transcript: 630/635 | 20.1 s por video | faltan ~2 min
+
+=== LLM ZERO-SHOT EN YOUTUBE (n = 635; prevalencia = .131) ===
+           condicion invalidas AUC_ROC         IC_ROC AUC_PR          IC_PR Brier Media_p Cal_intercepto
+ Metadata+Transcript         4   0.762 [0.703, 0.817]  0.364 [0.274, 0.465] 0.119  0.1458         -0.668
+            Metadata         4   0.657 [0.603, 0.713]  0.260 [0.189, 0.349] 0.124  0.0932          0.866
+          Transcript         0   0.739 [0.681, 0.796]  0.348 [0.261, 0.451] 0.116  0.1317         -0.305
+ Cal_pendiente VP FP FN  VN Sensibilidad Especificidad Precision    F1 Kappa valores_p_distintos
+         0.390 48 59 35 493        0.578         0.893     0.449 0.505 0.420                   6
+         0.324 28 35 55 517        0.337         0.937     0.444 0.384 0.305                   6
+         0.379 47 52 36 500        0.566         0.906     0.475 0.516 0.436                   5
+
+=== CONTRASTES PAREADOS (bootstrap de 2000 remuestreos, IC 95%) ===
+                                                 contraste dAUC_ROC          IC_ROC dAUC_PR
+  LLM metadata + transcript - TF-IDF metadata + transcript  0.00133 [-0.068, 0.071] -0.0645
+                            LLM metadata - TF-IDF metadata -0.06282 [-0.138, 0.012] -0.0750
+                        LLM transcript - TF-IDF transcript  0.00101 [-0.069, 0.070] -0.0464
+ LLM metadata + transcript - Proxies metadata + transcript  0.14494  [0.065, 0.226]  0.1599
+                  LLM metadata + transcript - LLM metadata  0.10490  [0.049, 0.160]  0.1038
+           IC_PR
+ [-0.167, 0.035]
+ [-0.182, 0.023]
+ [-0.150, 0.051]
+  [0.060, 0.254]
+  [0.022, 0.181]
+
+=== LLM ZERO-SHOT EN BITCHUTE (n = 100; prevalencia = .36) ===
+           condicion invalidas AUC_ROC         IC_ROC AUC_PR prevalencia VP FP FN VN Sensibilidad
+ Metadata+Transcript         2    0.73 [0.628, 0.827]  0.536        0.36 26 22 10 42        0.722
+ Especificidad Precision    F1 Kappa
+         0.656     0.542 0.619 0.353
+
+Listo. Envía la salida de consola y los archivos llm_*.csv y llm_modelo_info.json.
